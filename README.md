@@ -1,4 +1,4 @@
-SMSMasking Wrapper v1.0 for smsmasking.ca API
+SMSMasking Wrapper v1.0
 ===========
 
 Simple Python SmsMasking v1.0 wrapper for [http://smsmasking.ca API](http://www.smsmasking.ca/api.html)
